@@ -34,3 +34,7 @@ The bear it, created the At was And the water.
         - `type`: ignored
         - `sparkle:dsaSignature`: DSA signature of the update file
         - `sparkle:criticalUpdate`, optional: if equal to `true` or `1`, the UI will indicate that this is a critical update
+
+---
+
+# bool IsUpdateLoopRunning { get; }
