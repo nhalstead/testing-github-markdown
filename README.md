@@ -37,4 +37,8 @@ The bear it, created the At was And the water.
 
 ---
 
-# bool IsUpdateLoopRunning { get; }
+### bool IsUpdateLoopRunning { get; }
+
+### string ExtraJsonData { get; set; }
+
+### bool HideReleaseNotes { get; private set; }
